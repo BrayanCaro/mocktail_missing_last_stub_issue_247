@@ -1,14 +1,13 @@
 name: mocktail_missing_last_stub_issue_247
-description: A sample command-line application.
+description: Minimal reproducible example of the issue https://github.com/felangel/mocktail/issues/247
 version: 1.0.0
 # repository: https://github.com/my_org/my_repo
 
 environment:
   sdk: ^3.2.5
 
-# Add regular dependencies here.
 dependencies:
-  # path: ^1.8.0
+  mocktail: ^1.0.4
 
 dev_dependencies:
   lints: ^2.1.0
