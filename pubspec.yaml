@@ -1,7 +1,7 @@
 name: mocktail_missing_last_stub_issue_247
 description: Minimal reproducible example of the issue https://github.com/felangel/mocktail/issues/247
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/BrayanCaro/mocktail_missing_last_stub_issue_247
 
 environment:
   sdk: ^3.2.5
